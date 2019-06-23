@@ -1,0 +1,1 @@
+print('QYTANG\'day','2014-7-28')
